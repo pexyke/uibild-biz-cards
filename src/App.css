@@ -57,3 +57,8 @@ p {
   margin-top: 40px;
 }
 
+@media screen and (max-width: 993px){
+  .card-container {
+    margin-top: 62px;
+  }
+}
