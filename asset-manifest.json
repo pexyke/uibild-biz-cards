@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/uibild-biz-cards/static/css/main.3de540ca.css",
+    "main.js": "/uibild-biz-cards/static/js/main.a5b21c30.js",
+    "static/js/787.c2fd94e8.chunk.js": "/uibild-biz-cards/static/js/787.c2fd94e8.chunk.js",
+    "index.html": "/uibild-biz-cards/index.html",
+    "main.3de540ca.css.map": "/uibild-biz-cards/static/css/main.3de540ca.css.map",
+    "main.a5b21c30.js.map": "/uibild-biz-cards/static/js/main.a5b21c30.js.map",
+    "787.c2fd94e8.chunk.js.map": "/uibild-biz-cards/static/js/787.c2fd94e8.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3de540ca.css",
+    "static/js/main.a5b21c30.js"
+  ]
+}
